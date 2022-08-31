@@ -43,7 +43,7 @@ html {
 }
 
 .dots {
-  background-image: url(/images/dots.png);
+  background-image: url(images/dots.png);
   height: 186px;
   width: 204px;
   background-repeat: no-repeat;
@@ -1496,10 +1496,10 @@ header .mega .links:first-of-type li:last-child {
 
 @keyframes change-background {
   0%,100%{
-    background-image: url(/images/discount-background1.jpg);
+    background-image: url(images/discount-background1.jpg);
   }
   50%{
-    background-image: url(/images/discount-background2.jpg);
+    background-image: url(images/discount-background2.jpg);
   }
 }
 
